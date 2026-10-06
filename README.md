@@ -1,28 +1,214 @@
-#<h1 align="center">Hi 👋, I'm Vansh Dwivedi</h1>
-<h3 align="center">A passionate CyberSecurity enthusiast, Learner from India</h3>
+<h1 align="center">Hi 👋, I'm Vansh Dwivedi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshdwivedi84-beep&label=Profile%20views&color=0e75b6&style=flat" alt="vanshdwivedi84-beep" /> </p>
+<h3 align="center">🎓 CSE Cybersecurity Student | 💻 Developer | 🔐 Cybersecurity Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshdwivedi84-beep" alt="vanshdwivedi84-beep" /></a> </p>
-
-- 🌱 I’m currently learning **Cyber Security,Ethical Hacking,linux,and Networking**
-
-- 💬 Ask me about **Python,C++,Networking,and Basic Cyber Security**
-
-- 📫 How to reach me **vanshdwivedi84@gmail.com**
-
-- ⚡ Fun fact **I love travelling, exploring new places, and discovering new experiences**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vansh-dwivedi-7a2a6a345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vansh-dwivedi-7a2a6a345" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshdwivedi84-beep&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/vanshdwivedi84-beep?label=Followers&style=flat" alt="GitHub Followers"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshdwivedi84-beep&show_icons=true&locale=en&layout=compact" alt="vanshdwivedi84-beep" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshdwivedi84-beep&show_icons=true&locale=en" alt="vanshdwivedi84-beep" /></p>
+🎓 I am a **CSE Cybersecurity student from India** who enjoys learning about technology and building practical projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshdwivedi84-beep&" alt="vanshdwivedi84-beep" /></p>
+🌱 Currently learning:
+
+* 🔐 Cybersecurity Fundamentals
+* 🌐 Computer Networking
+* 🐧 Linux
+* 🐍 Python
+* 💻 C++
+* 🔧 Git & GitHub
+
+💡 My goal is to build a strong foundation in **Cybersecurity, Networking and Programming** through continuous learning and practical projects.
+
+🚀 I believe in **learning by building and experimenting**.
+
+🌍 Outside technology, I enjoy travelling, exploring new places and discovering new experiences.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+### 🌐 Currently Learning
+
+```text
+Cybersecurity     → Learning & Practicing
+Networking        → Learning & Practicing
+Linux             → Learning & Practicing
+Python            → Learning & Practicing
+C++               → Learning & Practicing
+Cisco Packet Tracer → Learning & Practicing
+```
+
+---
+
+## 📚 What I'm Currently Exploring
+
+🔐 **Cybersecurity**
+
+* Cybersecurity fundamentals
+* Common security concepts
+* Basic security tools
+* Security awareness
+
+🌐 **Networking**
+
+* OSI & TCP/IP models
+* IP addressing
+* Networking protocols
+* Routing & switching basics
+* Cisco Packet Tracer
+
+🐧 **Linux**
+
+* Linux commands
+* File system
+* Permissions
+* Basic administration
+
+🐍 **Python**
+
+* Programming fundamentals
+* Problem solving
+* Automation basics
+
+---
+
+## 🚀 My Learning Journey
+
+```text
+Programming
+     ↓
+Linux Fundamentals
+     ↓
+Networking Fundamentals
+     ↓
+Cybersecurity Fundamentals
+     ↓
+Practical Projects
+     ↓
+More Advanced Cybersecurity 🚀
+```
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 I'm currently building my cybersecurity and networking projects.
+
+### 🌐 Cisco Packet Tracer Project
+
+Learning how to design and configure computer networks using Cisco Packet Tracer.
+
+### 🔐 Cybersecurity Practice
+
+A collection of my cybersecurity learning, experiments and notes.
+
+### 🐍 Python Projects
+
+Small Python projects created while improving my programming and problem-solving skills.
+
+> More projects will be added as I continue learning 🚀
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshdwivedi84-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshdwivedi84-beep&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vanshdwivedi84-beep&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshdwivedi84-beep&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshdwivedi84-beep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="100%"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshdwivedi84-beep&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshdwivedi84-beep&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshdwivedi84-beep&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 📚 Strengthen Cybersecurity fundamentals
+* 🌐 Improve Networking knowledge
+* 🐧 Become more comfortable with Linux
+* 🐍 Improve Python programming
+* 🔧 Build more practical projects
+* 🌐 Create networking projects using Cisco Packet Tracer
+* 💻 Contribute more consistently on GitHub
+* 🚀 Build a strong Cybersecurity portfolio
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vansh-dwivedi-7a2a6a345">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vanshdwivedi84@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 💭 My Philosophy
+
+<p align="center">
+<i>"Learn. Build. Experiment. Improve. Repeat. 🚀"</i>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
+
