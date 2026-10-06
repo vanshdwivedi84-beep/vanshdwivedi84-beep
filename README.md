@@ -11,119 +11,105 @@
 
 ## 👨‍💻 About Me
 
-🎓 I am a **CSE Cybersecurity student from India** who enjoys learning about technology and building practical projects.
+🎓 I am a **CSE Cybersecurity student from India** interested in technology, programming and cybersecurity.
 
-🌱 Currently learning:
+🌱 Currently learning and exploring:
 
-* 🔐 Cybersecurity Fundamentals
+* 🔐 Cybersecurity
 * 🌐 Computer Networking
 * 🐧 Linux
 * 🐍 Python
 * 💻 C++
+* 🌐 HTML
+* 🗄️ SQL
 * 🔧 Git & GitHub
+* 🌐 Cisco Packet Tracer
 
-💡 My goal is to build a strong foundation in **Cybersecurity, Networking and Programming** through continuous learning and practical projects.
+💡 I am currently focused on building a strong foundation and improving my technical knowledge step by step.
 
-🚀 I believe in **learning by building and experimenting**.
+🚀 I believe in **learning by doing, experimenting and continuously improving**.
 
 🌍 Outside technology, I enjoy travelling, exploring new places and discovering new experiences.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 📚 Currently Learning
+
+### 🔐 Cybersecurity
+
+Learning cybersecurity fundamentals, security concepts and common security practices.
+
+### 🌐 Networking
+
+Learning networking fundamentals, OSI & TCP/IP models, IP addressing, protocols, routing and switching.
+
+### 🐧 Linux
+
+Learning Linux commands, file systems, permissions and basic administration.
 
 ### 💻 Programming
 
-<p>
+Learning **Python, C++, and HTML** to improve programming and web development fundamentals.
+
+### 🗄️ Backend & Database
+
+Learning **SQL** and understanding how databases work with backend applications.
+
+### 🔧 Git & GitHub
+
+Learning version control, repositories, commits, branches and GitHub workflows.
+
+### 🌐 Cisco Packet Tracer
+
+Learning how to design and simulate basic computer networks.
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+### 💻 Programming & Web
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🗄️ Backend & Database
 
-<p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🐧 Tools & Platforms
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
-### 🌐 Currently Learning
-
-```text
-Cybersecurity     → Learning & Practicing
-Networking        → Learning & Practicing
-Linux             → Learning & Practicing
-Python            → Learning & Practicing
-C++               → Learning & Practicing
-Cisco Packet Tracer → Learning & Practicing
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Learning-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 📚 What I'm Currently Exploring
-
-🔐 **Cybersecurity**
-
-* Cybersecurity fundamentals
-* Common security concepts
-* Basic security tools
-* Security awareness
-
-🌐 **Networking**
-
-* OSI & TCP/IP models
-* IP addressing
-* Networking protocols
-* Routing & switching basics
-* Cisco Packet Tracer
-
-🐧 **Linux**
-
-* Linux commands
-* File system
-* Permissions
-* Basic administration
-
-🐍 **Python**
-
-* Programming fundamentals
-* Problem solving
-* Automation basics
-
----
-
-## 🚀 My Learning Journey
+## 📈 My Learning Journey
 
 ```text
-Programming
-     ↓
+Programming & Web
+        ↓
 Linux Fundamentals
-     ↓
+        ↓
 Networking Fundamentals
-     ↓
+        ↓
+Database & SQL
+        ↓
 Cybersecurity Fundamentals
-     ↓
-Practical Projects
-     ↓
-More Advanced Cybersecurity 🚀
+        ↓
+Practical Learning
+        ↓
+Projects & Advanced Topics 🚀
 ```
-
----
-
-## 📌 Featured Projects
-
-> 🚧 I'm currently building my cybersecurity and networking projects.
-
-### 🌐 Cisco Packet Tracer Project
-
-Learning how to design and configure computer networks using Cisco Packet Tracer.
-
-### 🔐 Cybersecurity Practice
-
-A collection of my cybersecurity learning, experiments and notes.
-
-### 🐍 Python Projects
-
-Small Python projects created while improving my programming and problem-solving skills.
-
-> More projects will be added as I continue learning 🚀
 
 ---
 
@@ -179,10 +165,14 @@ Small Python projects created while improving my programming and problem-solving
 * 🌐 Improve Networking knowledge
 * 🐧 Become more comfortable with Linux
 * 🐍 Improve Python programming
-* 🔧 Build more practical projects
-* 🌐 Create networking projects using Cisco Packet Tracer
-* 💻 Contribute more consistently on GitHub
-* 🚀 Build a strong Cybersecurity portfolio
+* 💻 Improve C++ programming
+* 🌐 Improve HTML & web development fundamentals
+* 🗄️ Learn SQL and database fundamentals
+* 🔧 Learn Git & GitHub properly
+* 🌐 Practice networking with Cisco Packet Tracer
+* 🚀 Start building practical projects
+* 📈 Contribute consistently on GitHub
+* 🎓 Build a strong foundation for a career in Cybersecurity
 
 ---
 
@@ -196,6 +186,10 @@ Small Python projects created while improving my programming and problem-solving
 
 <a href="mailto:vanshdwivedi84@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/___va_n_sh/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
